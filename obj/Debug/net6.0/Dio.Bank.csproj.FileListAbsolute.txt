@@ -1,0 +1,15 @@
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\bin\Debug\net6.0\Dio.Bank.exe
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\bin\Debug\net6.0\Dio.Bank.deps.json
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\bin\Debug\net6.0\Dio.Bank.runtimeconfig.json
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\bin\Debug\net6.0\Dio.Bank.dll
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\bin\Debug\net6.0\ref\Dio.Bank.dll
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\bin\Debug\net6.0\Dio.Bank.pdb
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.AssemblyReference.cache
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfoInputs.cache
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfo.cs
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.CoreCompileInputs.cache
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.dll
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\ref\Dio.Bank.dll
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.pdb
+D:\Documentos\Curso-1°Empregotech\.NET\Desafio 1\Dio.Bank\obj\Debug\net6.0\Dio.Bank.genruntimeconfig.cache
